@@ -1,0 +1,36 @@
+/* || GENERAL STYLES || */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    height: 100%;
+    width: 100%;
+    background-color: blanchedalmond;
+}
+
+.container {
+    display: flex;
+
+    justify-content: center;
+    width: 900px;
+    margin: 0 auto;
+}
+
+.content {
+    display: flex;
+
+    height: 100%;
+    border-left: solid;
+    border-right: solid;
+    border-width: 2px;
+
+    padding-left: 1em;
+    padding-right: 1em;
+
+    background-color: rgb(153, 190, 220);
+}

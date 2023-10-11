@@ -39,3 +39,34 @@ a:visited {
     color: rgb(30, 108, 171);
     text-decoration: none;
 }
+
+.title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin-bottom: 2em;
+}
+
+.title h1 {
+    font-size: 5em;
+    font-weight: bold;
+}
+
+.title h3 {
+    font-size: 2em;
+    font-weight: lighter;
+}
+
+.navigation {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 2em;
+}
+
+.navigation a {
+    font-size: 1.85em;
+    font-weight: bold;
+}

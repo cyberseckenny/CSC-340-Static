@@ -20,8 +20,10 @@ body {
 .content {
     display: flex;
     flex-direction: column;
+    align-items: center;
 
     height: 100%;
+    width: 1000px;
     border-left: solid;
     border-right: solid;
     border-bottom: solid;
@@ -63,7 +65,8 @@ a:visited {
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
-    padding-top: 2em;
+    width: 50%;
+    padding-top: 0em;
 }
 
 .navigation a {

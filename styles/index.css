@@ -1,0 +1,13 @@
+.info {
+    margin-top: 2em;
+}
+
+.info p {
+    margin-bottom: 1em;
+    font-size: 1.2em;
+}
+
+.info ul {
+    margin-left: 2em;
+    font-size: 1.1em;
+}

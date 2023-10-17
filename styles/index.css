@@ -11,3 +11,16 @@
     margin-left: 2em;
     font-size: 1.1em;
 }
+
+.images {
+    margin-top: 3em;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: space-around;
+}
+
+.images img {
+    width: 45%;
+}

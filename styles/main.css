@@ -84,3 +84,30 @@ a:visited {
     font-size: 1.85em;
     font-weight: bold;
 }
+
+.info {
+    margin-top: 2em;
+}
+
+.info p {
+    margin-bottom: 1em;
+    font-size: 1.2em;
+}
+
+.info ul {
+    margin-left: 2em;
+    font-size: 1.1em;
+}
+
+.images {
+    margin-top: 2em;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: space-around;
+}
+
+.images img {
+    width: 80%;
+}

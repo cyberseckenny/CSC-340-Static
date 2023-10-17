@@ -1,4 +1,7 @@
 .info {
-    margin-top: 3em;
     text-align: center;
+}
+
+.images img {
+    width: 20%;
 }

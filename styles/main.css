@@ -60,6 +60,17 @@ a:visited {
     font-weight: lighter;
 }
 
+.logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo img {
+    width: 17%;
+}
+
 .navigation {
     display: flex;
     flex-direction: row;
